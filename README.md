@@ -1,6 +1,6 @@
 # Annotated Computer Vision Papers
 
-Part of my #60days30CVPapers exercise of reading 30papers in 60 days (might be non-continous :P)
+Part of my #60days30CVPapers exercise of reading 30papers in 60 days (might be non-continous :))
 
 ## Paper 1: FCN : Fully Convolutional Networks for Semantic Segmentation (CVPR 2015)
 
