@@ -6,6 +6,9 @@ Part of my #60days30CVPapers exercise of reading 30papers in 60 days (might be n
 
 
 
+## Paper 2: U-Net: Convolutional Networks for Biomedical Image Segmentation (MICCAI 2015)
+
+
 
 
 
